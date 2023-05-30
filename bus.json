@@ -1,0 +1,282 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-7875992740610401/1888249740",
+         "main_ads_intertitial":"ca-app-pub-7875992740610401/3294977985",
+         "main_ads_natives":"ca-app-pub-7875992740610401/3632576253",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "open_ads_admob":"ca-app-pub-7875992740610401/5729569630",
+         "open_ads_alien":"",
+         "open_ads_max":"1",
+         "on_off_native_listview":"",
+         "interval_intertitial":3,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "MoreApp":[
+      {
+         "id":1,
+         "title":"Bus",
+         "image":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image01.jpeg",
+         "link":""
+      }
+   ],
+   "Wallpaper":[
+      {
+         "wallpaper_name":"image 01",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image01.jpeg"
+      },
+      {
+         "wallpaper_name":"image 02",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image02.jpeg"
+      },
+      {
+         "wallpaper_name":"image 03",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image03.jpeg"
+      },
+      {
+         "wallpaper_name":"image 04",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image04.jpeg"
+      },
+      {
+         "wallpaper_name":"image 05",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image05.jpeg"
+      },
+      {
+         "wallpaper_name":"image 06",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image06.jpeg"
+      },
+      {
+         "wallpaper_name":"image 07",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image07.jpeg"
+      },
+      {
+         "wallpaper_name":"image 08",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image08.jpeg"
+      },
+      {
+         "wallpaper_name":"image 09",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image09.jpeg"
+      },
+      {
+         "wallpaper_name":"image 10",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image10.jpeg"
+      },
+      {
+         "wallpaper_name":"image 11",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image11.jpeg"
+      },
+      {
+         "wallpaper_name":"image 12",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image12.jpeg"
+      },
+      {
+         "wallpaper_name":"image 13",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image13.jpeg"
+      },
+      {
+         "wallpaper_name":"image 14",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image14.jpeg"
+      },
+      {
+         "wallpaper_name":"image 15",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image15.jpeg"
+      },
+      {
+         "wallpaper_name":"image 16",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image16.jpeg"
+      },
+      {
+         "wallpaper_name":"image 17",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image17.jpeg"
+      },
+      {
+         "wallpaper_name":"image 18",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image18.jpeg"
+      },
+      {
+         "wallpaper_name":"image 19",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image19.jpeg"
+      },
+      {
+         "wallpaper_name":"image 20",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image20.jpeg"
+      },
+      {
+         "wallpaper_name":"image 21",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image21.jpeg"
+      },
+      {
+         "wallpaper_name":"image 22",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image22.jpeg"
+      },
+      {
+         "wallpaper_name":"image 23",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image23.jpeg"
+      },
+      {
+         "wallpaper_name":"image 24",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image24.jpeg"
+      },
+      {
+         "wallpaper_name":"image 25",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image25.jpeg"
+      },
+      {
+         "wallpaper_name":"image 26",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image26.jpeg"
+      },
+      {
+         "wallpaper_name":"image 27",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image27.jpeg"
+      },
+      {
+         "wallpaper_name":"image 28",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image28.jpeg"
+      },
+      {
+         "wallpaper_name":"image 29",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image29.jpeg"
+      },
+      {
+         "wallpaper_name":"image 30",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image30.jpeg"
+      },
+      {
+         "wallpaper_name":"image 31",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image31.jpeg"
+      },
+      {
+         "wallpaper_name":"image 32",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image32.jpeg"
+      },
+      {
+         "wallpaper_name":"image 33",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image33.jpeg"
+      },
+      {
+         "wallpaper_name":"image 34",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image34.jpeg"
+      },
+      {
+         "wallpaper_name":"image 35",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image35.jpeg"
+      },
+      {
+         "wallpaper_name":"image 36",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image36.jpeg"
+      },
+      {
+         "wallpaper_name":"image 37",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image37.jpeg"
+      },
+      {
+         "wallpaper_name":"image 38",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image38.jpeg"
+      },
+      {
+         "wallpaper_name":"image 39",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image39.jpeg"
+      },
+      {
+         "wallpaper_name":"image 40",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image40.jpeg"
+      },
+      {
+         "wallpaper_name":"image 41",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image41.jpeg"
+      },
+      {
+         "wallpaper_name":"image 42",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image42.jpeg"
+      },
+      {
+         "wallpaper_name":"image 43",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image43.jpeg"
+      },
+      {
+         "wallpaper_name":"image 44",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image44.jpeg"
+      },
+      {
+         "wallpaper_name":"image 45",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image45.jpeg"
+      },
+      {
+         "wallpaper_name":"image 46",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image46.jpeg"
+      },
+      {
+         "wallpaper_name":"image 47",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image47.jpeg"
+      },
+      {
+         "wallpaper_name":"image 48",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image48.jpeg"
+      },
+      {
+         "wallpaper_name":"image 49",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image49.jpeg"
+      },
+      {
+         "wallpaper_name":"image 50",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image50.jpeg"
+      },
+      {
+         "wallpaper_name":"image 51",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image51.jpeg"
+      },
+      {
+         "wallpaper_name":"image 52",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image52.jpeg"
+      },
+      {
+         "wallpaper_name":"image 53",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image53.jpeg"
+      },
+      {
+         "wallpaper_name":"image 54",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image54.jpeg"
+      },
+      {
+         "wallpaper_name":"image 55",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image55.jpeg"
+      },
+      {
+         "wallpaper_name":"image 56",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image56.jpeg"
+      },
+      {
+         "wallpaper_name":"image 57",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image57.jpeg"
+      },
+      {
+         "wallpaper_name":"image 58",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image58.jpeg"
+      },
+      {
+         "wallpaper_name":"image 59",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image59.jpeg"
+      },
+      {
+         "wallpaper_name":"image 60",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image60.jpeg"
+      },
+      {
+         "wallpaper_name":"image 61",
+         "wallpaper_url":"https://raw.githubusercontent.com/putraweb2/wallpaper_bus/main/image61.jpeg"
+      }
+   ]
+}
